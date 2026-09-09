@@ -80,6 +80,10 @@ const sidebar: DefaultTheme.Sidebar = {
               "link": "/analysis/kernel/debug/oops-pc-to-source"
             },
             {
+              "text": "Oops 栈回溯",
+              "link": "/analysis/kernel/debug/oops-stack-unwind"
+            },
+            {
               "text": "写作模板",
               "link": "/analysis/kernel/debug/template"
             }

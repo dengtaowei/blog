@@ -28,6 +28,7 @@ home: false
 - [Sound](/analysis/kernel/debug/sound/) — 板载麦/喇叭、DTS 与原理图对照等
 - 通用工具与方法
   - [根据 Oops 的 PC 定位到出错指令](/analysis/kernel/debug/oops-pc-to-source)
+  - [从 Oops 栈转储手工回溯调用栈](/analysis/kernel/debug/oops-stack-unwind)
 - [写作模板](/analysis/kernel/debug/template)
 
 ---

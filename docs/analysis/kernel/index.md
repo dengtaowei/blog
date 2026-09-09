@@ -93,4 +93,5 @@ Linux 内核子系统源码分析（Linux 6.8）。
 - [libusb Windows 枚举失败](/analysis/kernel/debug/usb/libusb-windows-hcd-enum-fail) — 空 root hub 让 HCD 扫描轮整体失败
 - [IMX6ULL SPI 片选 GPIO 时好时坏](/analysis/kernel/debug/gpio/imx6ull-spi-cs-gpio-runtime-pm) — runtime PM 覆盖 CS
 - [根据 Oops 的 PC 定位到出错指令](/analysis/kernel/debug/oops-pc-to-source) — `func+off` / kallsyms / `objdump`
+- [从 Oops 栈转储手工回溯调用栈](/analysis/kernel/debug/oops-stack-unwind) — 从 SP 认 `push` 保存的 lr
 - [写作模板](/analysis/kernel/debug/template)
