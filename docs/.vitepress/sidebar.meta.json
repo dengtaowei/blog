@@ -60,6 +60,10 @@
                 "text": "Oops PC 定位"
               },
               {
+                "file": "analysis/kernel/debug/oops-stack-unwind.md",
+                "text": "Oops 栈回溯"
+              },
+              {
                 "file": "analysis/kernel/debug/template.md",
                 "text": "写作模板"
               }
