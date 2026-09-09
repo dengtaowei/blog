@@ -133,7 +133,7 @@ c034bfec  kernfs_drain_open_files
 
 ---
 
-## 7. 完整调用链
+## 6. 完整调用链
 
 手工结果：
 
