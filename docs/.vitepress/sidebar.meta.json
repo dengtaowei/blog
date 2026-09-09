@@ -56,6 +56,10 @@
                 "index": "analysis/kernel/debug/sound"
               },
               {
+                "file": "analysis/kernel/debug/oops-pc-to-source.md",
+                "text": "Oops PC 定位"
+              },
+              {
                 "file": "analysis/kernel/debug/template.md",
                 "text": "写作模板"
               }

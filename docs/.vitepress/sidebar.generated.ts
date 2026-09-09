@@ -76,6 +76,10 @@ const sidebar: DefaultTheme.Sidebar = {
               "link": "/analysis/kernel/debug/sound/"
             },
             {
+              "text": "Oops PC 定位",
+              "link": "/analysis/kernel/debug/oops-pc-to-source"
+            },
+            {
               "text": "写作模板",
               "link": "/analysis/kernel/debug/template"
             }

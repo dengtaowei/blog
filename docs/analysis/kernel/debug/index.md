@@ -26,7 +26,9 @@ home: false
 - [USB](/analysis/kernel/debug/usb/) — 枚举、probe、UVC、抓包与 trace 等
 - [Pinctrl / GPIO](/analysis/kernel/debug/gpio/) — runtime PM、pin 复用、片选时序等
 - [Sound](/analysis/kernel/debug/sound/) — 板载麦/喇叭、DTS 与原理图对照等
-- 通用工具与方法 — 见下方 [写作模板](/analysis/kernel/debug/template)
+- 通用工具与方法
+  - [根据 Oops 的 PC 定位到出错指令](/analysis/kernel/debug/oops-pc-to-source)
+- [写作模板](/analysis/kernel/debug/template)
 
 ---
 
